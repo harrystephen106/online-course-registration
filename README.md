@@ -39,6 +39,8 @@ Welcome to the Online Course Registration System! This web-based registration so
 
   ![image](https://github.com/bhavya51/Course_Registration_Portal/assets/93445041/8e1482ed-862f-42c3-8cb0-e0315d1c89e1)
   ![image](https://github.com/bhavya51/Course_Registration_Portal/assets/93445041/e81d1a4a-ed38-4f7d-b2e2-1c60df5cbd89)
+  ![image](https://github.com/bhavya51/Course_Registration_Portal/assets/93445041/fa61778c-c35e-465e-9247-957adbf7cbbd)
+  ![image](https://github.com/bhavya51/Course_Registration_Portal/assets/93445041/f940fe16-60ee-458f-bc45-b0aeecbc202d)
 
 ## Installation Steps
 
@@ -53,4 +55,3 @@ Welcome to the Online Course Registration System! This web-based registration so
 
 ## Accesing the Portal on Browser:
 - Open your browser and enter the following URL: 'http://localhost/Course_Registration_Portal'
-
